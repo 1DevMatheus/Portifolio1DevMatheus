@@ -10,6 +10,7 @@ var img4 = document.getElementById("myImg4");
 var modalImg = document.getElementById("img01");
 var modalImg2 = document.getElementById("img02");
 var modalImg3 = document.getElementById("img03");
+var modalImg4 = document.getElementById("img03");
 
 
 var captionText = document.getElementById("caption");
